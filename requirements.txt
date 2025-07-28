@@ -1,0 +1,15 @@
+# requirements.txt
+
+# For PDF parsing
+PyMuPDF
+
+# For core NLP and semantic search model
+sentence-transformers
+torch
+
+# For scientific computing and similarity calculation
+numpy
+scikit-learn
+
+# For text processing (sentence splitting)
+spacy
