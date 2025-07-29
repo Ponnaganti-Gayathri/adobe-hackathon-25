@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.idea/
+
+# Model cache
+.cache/
+
+# Output files
+output/
+
+# Mac specific
+.DS_Store
